@@ -58,7 +58,8 @@ function onNavItemClick(id) {
 }
 
 const searchButton = document.getElementById("search-button");
-const searchText = document.getElementById("search-text");
+const searchText = document.querySelector(".news-input");
+
 
 searchButton.addEventListener("click", () => {
     const query = searchText.value;
