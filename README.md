@@ -8,5 +8,7 @@ Functionality:
 - Click on any topic in the navigation bar to get news related to them.
 - News Title, Source, Thumbnail, and Description are represented well.
 - Clicking on any article will take you to the source link.
+
+  Content not loading in github pages, to see it working you can download this repository and run it using the "Live Server" extention of VS-Code.
   
 ![image](https://github.com/RahulBRB/globalnews-site/assets/86495244/e54c198e-50ed-487f-ad1f-82db2bf157e2)
